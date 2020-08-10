@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="toolbarColor">#CDDC39</color>
+    <color name="nav_header">#FF9800</color>
+    
+    <color name="income_color">#1BA100</color>
+    <color name="expense_color">#B60000</color>
+    <color name="dashboard_color">#2236A3</color>
+
+</resources>

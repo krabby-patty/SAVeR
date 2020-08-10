@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:enabled="true"
+        android:icon="@drawable/dashboard"
+        />
+
+    <item android:id="@+id/income"
+        android:title="Income"
+        android:enabled="true"
+        android:icon="@drawable/income"
+        />
+
+    <item android:id="@+id/expense"
+        android:title="Expense"
+        android:enabled="true"
+        android:icon="@drawable/expense"
+        />
+
+</menu>

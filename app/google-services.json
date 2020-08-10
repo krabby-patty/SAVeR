@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906301802513",
+    "firebase_url": "https://savr-v1.firebaseio.com",
+    "project_id": "savr-v1",
+    "storage_bucket": "savr-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906301802513:android:727d3454ad5e285a0749b0",
+        "android_client_info": {
+          "package_name": "com.neon.savr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906301802513-v9caf06dlcjo0mdnbdon9itu1b3rul1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neon.savr",
+            "certificate_hash": "203cbea3d63213ea0eac96da3e0c4ef58fd00e9a"
+          }
+        },
+        {
+          "client_id": "906301802513-t6qipcqlv0p30ms2hu2gdq862ja15a1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwrJI3AYIV08TPiCukNcWDUjDQ4Ufg88E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906301802513-t6qipcqlv0p30ms2hu2gdq862ja15a1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
